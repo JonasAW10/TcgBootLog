@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.csproj.user
+.firecrawl/
+imgui.ini
+*.log
+tools/__pycache/
+publish/
+*.zip
